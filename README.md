@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h4>Me : </h4>
+<div style="display:inline;">
+  <a href="www.linkedin.com/in/kandikaprima/"><img alt="Custom badge" src="https://img.shields.io/badge/LinkedIn-Kandika_Prima_Putra-informational?        style=flat&logo=linkedin&logoColor=white"></a><br>
+  <a href="https://www.instagram.com/kandikaprima"><img alt="Custom badge" src="https://img.shields.io/badge/Instagram-@kandikaprima-informational?style=flat&logo=instagram&logoColor=white"></a>
+</div>
 <!--
 **kandikaprima/kandikaprima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
